@@ -31,7 +31,11 @@
     "**/*.mts",
     "app/api/challenge/route.js",
     "app/api/challenge/task/route.js",
-    "app/dashboard/page.jsx"
+    "app/dashboard/page.jsx",
+    "app/page.jsx",
+    "app/layout.jsx",
+    "app/register/page.jsx",
+    "app/login/page.jsx"
   ],
   "exclude": ["node_modules"]
 }
