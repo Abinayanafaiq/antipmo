@@ -30,7 +30,8 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts",
     "app/api/challenge/route.js",
-    "app/api/challenge/task/route.js"
+    "app/api/challenge/task/route.js",
+    "app/dashboard/page.jsx"
   ],
   "exclude": ["node_modules"]
 }
