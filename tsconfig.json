@@ -28,7 +28,9 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
-    "**/*.mts"
+    "**/*.mts",
+    "app/api/challenge/route.js",
+    "app/api/challenge/task/route.js"
   ],
   "exclude": ["node_modules"]
 }
